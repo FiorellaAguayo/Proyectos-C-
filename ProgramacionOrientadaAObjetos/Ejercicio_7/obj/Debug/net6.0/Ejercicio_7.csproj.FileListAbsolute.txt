@@ -1,0 +1,5 @@
+C:\Users\fiore\source\repos\ProgramacionOrientadaAObjetos\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.csproj.AssemblyReference.cache
+C:\Users\fiore\source\repos\ProgramacionOrientadaAObjetos\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiore\source\repos\ProgramacionOrientadaAObjetos\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.AssemblyInfoInputs.cache
+C:\Users\fiore\source\repos\ProgramacionOrientadaAObjetos\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.AssemblyInfo.cs
+C:\Users\fiore\source\repos\ProgramacionOrientadaAObjetos\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.csproj.CoreCompileInputs.cache
