@@ -1,0 +1,15 @@
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\bin\Debug\net6.0\Ejercicio_9.exe
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\bin\Debug\net6.0\Ejercicio_9.deps.json
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\bin\Debug\net6.0\Ejercicio_9.runtimeconfig.json
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\bin\Debug\net6.0\Ejercicio_9.dll
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\bin\Debug\net6.0\Ejercicio_9.pdb
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.csproj.AssemblyReference.cache
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.AssemblyInfo.cs
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.dll
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\refint\Ejercicio_9.dll
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.pdb
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\Ejercicio_9.genruntimeconfig.cache
+C:\Users\fiore\source\repos\ClasesMetodosEstaticos\Ejercicio_9\obj\Debug\net6.0\ref\Ejercicio_9.dll
