@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fiore\\.nuget\\packages\\": {}
+    "C:\\Users\\irlid\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fiore\\source\\repos\\WindowsForms\\Ejercicio_1\\Ejercicio_1.csproj",
+      "projectUniqueName": "C:\\Users\\irlid\\Desktop\\repo fiore\\WindowsForms\\Ejercicio_1\\Ejercicio_1.csproj",
       "projectName": "Ejercicio_1",
-      "projectPath": "C:\\Users\\fiore\\source\\repos\\WindowsForms\\Ejercicio_1\\Ejercicio_1.csproj",
-      "packagesPath": "C:\\Users\\fiore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fiore\\source\\repos\\WindowsForms\\Ejercicio_1\\obj\\",
+      "projectPath": "C:\\Users\\irlid\\Desktop\\repo fiore\\WindowsForms\\Ejercicio_1\\Ejercicio_1.csproj",
+      "packagesPath": "C:\\Users\\irlid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\irlid\\Desktop\\repo fiore\\WindowsForms\\Ejercicio_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fiore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\irlid\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\fiore\\source\\repos\\WindowsForms\\BibliotecaDeClases\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\fiore\\source\\repos\\WindowsForms\\BibliotecaDeClases\\ClassLibrary.csproj"
+            "C:\\Users\\irlid\\Desktop\\repo fiore\\WindowsForms\\BibliotecaDeClases\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\irlid\\Desktop\\repo fiore\\WindowsForms\\BibliotecaDeClases\\ClassLibrary.csproj"
             }
           }
         }
