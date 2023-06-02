@@ -50,15 +50,16 @@
             btnCalculate.TabIndex = 1;
             btnCalculate.Text = "Calcular";
             btnCalculate.UseVisualStyleBackColor = false;
+            btnCalculate.Click += btnCalculate_Click;
             // 
-            // Form1
+            // FrmWordCounter
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(btnCalculate);
             Controls.Add(rtxtWordCounter);
-            Name = "Form1";
+            Name = "FrmWordCounter";
             Text = "Contador de Palabras";
             ResumeLayout(false);
         }

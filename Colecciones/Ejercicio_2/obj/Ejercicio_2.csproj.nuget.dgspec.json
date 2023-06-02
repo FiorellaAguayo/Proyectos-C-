@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irlid\\Desktop\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj": {}
+    "C:\\Users\\irlid\\Desktop\\repo fiore\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irlid\\Desktop\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj": {
+    "C:\\Users\\irlid\\Desktop\\repo fiore\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irlid\\Desktop\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj",
+        "projectUniqueName": "C:\\Users\\irlid\\Desktop\\repo fiore\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj",
         "projectName": "Ejercicio_2",
-        "projectPath": "C:\\Users\\irlid\\Desktop\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj",
+        "projectPath": "C:\\Users\\irlid\\Desktop\\repo fiore\\Colecciones\\Ejercicio_2\\Ejercicio_2.csproj",
         "packagesPath": "C:\\Users\\irlid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irlid\\Desktop\\Colecciones\\Ejercicio_2\\obj\\",
+        "outputPath": "C:\\Users\\irlid\\Desktop\\repo fiore\\Colecciones\\Ejercicio_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irlid\\AppData\\Roaming\\NuGet\\NuGet.Config",
